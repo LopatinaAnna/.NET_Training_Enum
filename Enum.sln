@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enum_2", "Enum_2\Enum_2.csproj", "{329C2FE2-0F29-4041-81E5-52DA75EEA9B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enum_3", "Enum_3\Enum_3.csproj", "{7336E95E-3A76-4A63-91DB-1B11631BC1D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum_1", "Enum_1\Enum_1.csproj", "{D425931D-3DC6-4A64-91B7-7B0577ABA923}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329C2FE2-0F29-4041-81E5-52DA75EEA9B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329C2FE2-0F29-4041-81E5-52DA75EEA9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329C2FE2-0F29-4041-81E5-52DA75EEA9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329C2FE2-0F29-4041-81E5-52DA75EEA9B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7336E95E-3A76-4A63-91DB-1B11631BC1D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7336E95E-3A76-4A63-91DB-1B11631BC1D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7336E95E-3A76-4A63-91DB-1B11631BC1D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7336E95E-3A76-4A63-91DB-1B11631BC1D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D425931D-3DC6-4A64-91B7-7B0577ABA923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D425931D-3DC6-4A64-91B7-7B0577ABA923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D425931D-3DC6-4A64-91B7-7B0577ABA923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D425931D-3DC6-4A64-91B7-7B0577ABA923}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EE320EB-E171-4131-AC9D-47A3BAE603C3}
+	EndGlobalSection
+EndGlobal
